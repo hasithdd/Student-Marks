@@ -1,4 +1,4 @@
-Student Marks Predictor
+## Student Marks Predictor
 
 This project is a simple linear regression model that predicts student marks based on the number of courses they are taking and the time they spend studying.
 
